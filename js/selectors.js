@@ -10,5 +10,5 @@
 // $('div:last');                              // LAST SELECTOR
 
 function paragraphSelector() {
-  $('p');
+  return $('p');
 }
