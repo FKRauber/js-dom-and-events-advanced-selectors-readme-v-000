@@ -1,5 +1,6 @@
 // declare your functions here...
-
-$('img');
-$('.pics');
-$('#baby-ninja');
+$(document).ready(function(){
+  $('img');
+  $('.pics');
+  $('#baby-ninja');
+});
