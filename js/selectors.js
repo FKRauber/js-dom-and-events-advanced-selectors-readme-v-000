@@ -24,3 +24,7 @@ function ninjaBabySelector() {
 function divSelector() {
   return $('.pics');
 }
+
+function firstListItem(){
+  return $('ul li #pic-list');
+}
